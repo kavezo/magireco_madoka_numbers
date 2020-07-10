@@ -25,10 +25,9 @@ function addMadokaNumber(dataset, resolve) {
       if (!visited.includes(i) && madokaNumbers[i]<closestNumber) {
         closest = i;
         closestNumber = madokaNumbers[i];
-        break;
       }
     }
-    visited.push(closest)
+    visited.push(closest);
 
     for (var i=0; i<n; i++) {
       if (adjacency[closest][i] && closestNumber+1<madokaNumbers[i]) {
