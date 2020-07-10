@@ -80,7 +80,10 @@ function addMadokaNumber(dataset, resolve) {
       // replace eles
       cy.elements().remove();
       let calcMadokaNumbers = new Promise((resolve, reject) => addMadokaNumber(dataset, resolve));
-      calcMadokaNumbers.then(() => cy.add( dataset ));
+      calcMadokaNumbers.then(() => {
+        cy.add( dataset );
+        cy.getElementById('madoka').addClass('madoka');
+      });
     }
     let applyDatasetFromSelect = () => getDataset("custom.json").then( applyDataset );
 
@@ -210,7 +213,7 @@ function addMadokaNumber(dataset, resolve) {
         if (algResults.distance) {
           // Among DFS, BFS, A*, only A* will have the distance property defined
           algResults.path.first().addClass('highlighted start');
-          algResults.path.last().addClass('highlighted end');
+          // algResults.path.last().addClass('highlighted end');
           // i is not advanced to 1, so start node is effectively highlighted twice.
           // this is intentional; creates a short pause between highlighting ends and highlighting the path
         }
@@ -219,7 +222,7 @@ function addMadokaNumber(dataset, resolve) {
             if (currentAlgorithm === algResults && i < algResults.path.length) {
               algResults.path[i].addClass('highlighted');
               i++;
-              setTimeout(highlightNext, 500);
+              //setTimeout(highlightNext, 500);
             } else {
               // resolve when finished or when a new algorithm has started visualization
               resolve();
@@ -233,6 +236,20 @@ function addMadokaNumber(dataset, resolve) {
 
     cy = window.cy = cytoscape({
       container: $('#cy')
+    });
+
+    cy.on('click', function(evt){
+      cy.$().removeClass('highlighted start end');
+    });
+
+    cy.on('click', 'node', function(evt){
+      cy.$().removeClass('highlighted start end');
+      var dijkstra = cy.elements().dijkstra({root: this});
+      Promise.resolve(dijkstra).then(a => {
+        var path = a.pathTo(cy.getElementById('madoka')); 
+        console.log(path);
+        path.addClass('highlighted')
+      }); //cy.getElementById('madoka').addClass('madoka');
     });
 
     tryPromise( applyDatasetFromSelect ).then( applyStylesheetFromSelect ).then( applyLayoutFromSelect );
