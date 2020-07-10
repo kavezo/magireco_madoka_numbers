@@ -1010,6 +1010,38 @@
         },
         {
             "data": {
+                "id": "aimimasara",
+                "source": "aimi",
+                "target": "masara"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "aimikokoro",
+                "source": "aimi",
+                "target": "kokoro"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "madokakako",
+                "source": "madoka",
+                "target": "kako"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "madokasasara",
+                "source": "madoka",
+                "target": "sasara"
+            },
+            "selected": false
+        },
+        {
+            "data": {
                 "id": "orikoyuma",
                 "source": "oriko",
                 "target": "yuma"
