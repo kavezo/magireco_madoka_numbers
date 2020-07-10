@@ -1002,9 +1002,25 @@
         },
         {
             "data": {
-                "id": "himikakaoru",
-                "source": "himika",
-                "target": "kaoru"
+                "id": "kazumimanaka",
+                "source": "kazumi",
+                "target": "manaka"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kaorunatsuki",
+                "source": "kaoru",
+                "target": "natsuki"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "umikakako",
+                "source": "umika",
+                "target": "kako"
             },
             "selected": false
         },
