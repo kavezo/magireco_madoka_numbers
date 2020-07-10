@@ -1,0 +1,1988 @@
+{
+    "nodes": [
+        {
+            "data": {
+                "id": "madoka",
+                "name": "Madoka Kaname"
+            },
+            "position": {
+                "x": 32.4,
+                "y": 102.4
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "iroha",
+                "name": "Iroha Tamaki"
+            },
+            "position": {
+                "x": 67.5,
+                "y": 85.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "ashley",
+                "name": "Ashley Taylor"
+            },
+            "position": {
+                "x": 30.8,
+                "y": 13.2
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "akira",
+                "name": "Akira Shinobu"
+            },
+            "position": {
+                "x": 168.8,
+                "y": 67.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "emiri",
+                "name": "Emiri Kisaki"
+            },
+            "position": {
+                "x": 171.7,
+                "y": 115.2
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kako",
+                "name": "Kako Natsume"
+            },
+            "position": {
+                "x": 153.6,
+                "y": 67.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kanoko",
+                "name": "Kanoko Yayoi"
+            },
+            "position": {
+                "x": 122.5,
+                "y": 52.5
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "konomi",
+                "name": "Konomi Haruna"
+            },
+            "position": {
+                "x": 154.8,
+                "y": 93.4
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "manaka",
+                "name": "Manaka Kurumi"
+            },
+            "position": {
+                "x": 189.0,
+                "y": 45.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "natsuki",
+                "name": "Natsuki Utsuho"
+            },
+            "position": {
+                "x": 153.6,
+                "y": 112.5
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "sasara",
+                "name": "Sasara Minagi"
+            },
+            "position": {
+                "x": 101.4,
+                "y": 113.7
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "shizuku",
+                "name": "Shizuku Hozumi"
+            },
+            "position": {
+                "x": 84.0,
+                "y": 125.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "hinano",
+                "name": "Hinano Miyako"
+            },
+            "position": {
+                "x": 189.0,
+                "y": 115.2
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "tsuruno",
+                "name": "Tsuruno Yui"
+            },
+            "position": {
+                "x": 55.0,
+                "y": 100.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "yachiyo",
+                "name": "Yachiyo Nanami"
+            },
+            "position": {
+                "x": 82.5,
+                "y": 92.5
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "ayaka",
+                "name": "Ayaka Mariko"
+            },
+            "position": {
+                "x": 71.2,
+                "y": 125.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "masara",
+                "name": "Masara Kagami"
+            },
+            "position": {
+                "x": 80.0,
+                "y": 38.5
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "rika",
+                "name": "Rika Ayano"
+            },
+            "position": {
+                "x": 184.6,
+                "y": 96.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "yuma",
+                "name": "Yuma Chitose"
+            },
+            "position": {
+                "x": 17.0,
+                "y": 130.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "asuka",
+                "name": "Asuka Tatsuki"
+            },
+            "position": {
+                "x": 120.0,
+                "y": 113.7
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kaede",
+                "name": "Kaede Akino"
+            },
+            "position": {
+                "x": 132.5,
+                "y": 92.5
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "meiyui",
+                "name": "Meiyui Chun"
+            },
+            "position": {
+                "x": 168.8,
+                "y": 52.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "nanaka",
+                "name": "Nanaka Tokiwa"
+            },
+            "position": {
+                "x": 153.6,
+                "y": 52.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "oriko",
+                "name": "Oriko Mikuni"
+            },
+            "position": {
+                "x": 37.6,
+                "y": 130.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "moemura",
+                "name": "Homura Akemi (Glasses)"
+            },
+            "position": {
+                "x": 23.0,
+                "y": 102.4
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kirika",
+                "name": "Kirika Kure"
+            },
+            "position": {
+                "x": 47.8,
+                "y": 130.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mami",
+                "name": "Mami Tomoe"
+            },
+            "position": {
+                "x": 36.0,
+                "y": 87.3
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "momoko",
+                "name": "Momoko Togame"
+            },
+            "position": {
+                "x": 107.5,
+                "y": 92.5
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "rena",
+                "name": "Rena Minami"
+            },
+            "position": {
+                "x": 122.5,
+                "y": 75.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "felicia",
+                "name": "Felicia Mitsuki"
+            },
+            "position": {
+                "x": 55.0,
+                "y": 85.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "ren",
+                "name": "Ren Isuzu"
+            },
+            "position": {
+                "x": 172.6,
+                "y": 96.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kyoko",
+                "name": "Kyoko Sakura"
+            },
+            "position": {
+                "x": 18.0,
+                "y": 87.3
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "ayame",
+                "name": "Ayame Mikuri"
+            },
+            "position": {
+                "x": 167.2,
+                "y": 20.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "hazuki",
+                "name": "Hazuki Yusa"
+            },
+            "position": {
+                "x": 153.6,
+                "y": 20.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "konoha",
+                "name": "Konoha Shizumi"
+            },
+            "position": {
+                "x": 180.8,
+                "y": 20.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "sana",
+                "name": "Sana Futaba"
+            },
+            "position": {
+                "x": 67.5,
+                "y": 100.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "aimi",
+                "name": "Aimi Eri"
+            },
+            "position": {
+                "x": 137.8,
+                "y": 128.2
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "karin",
+                "name": "Karin Misono"
+            },
+            "position": {
+                "x": 10.9,
+                "y": 22.6
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kokoro",
+                "name": "Kokoro Awane"
+            },
+            "position": {
+                "x": 94.8,
+                "y": 38.5
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kaoru",
+                "name": "Kaoru Maki"
+            },
+            "position": {
+                "x": 127.5,
+                "y": 32.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "umika",
+                "name": "Umika Misaki"
+            },
+            "position": {
+                "x": 116.0,
+                "y": 32.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kazumi",
+                "name": "Kazumi"
+            },
+            "position": {
+                "x": 121.8,
+                "y": 22.5
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "tsukasa",
+                "name": "Tsukasa Amane"
+            },
+            "position": {
+                "x": 29.5,
+                "y": 62.5
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "tsukuyo",
+                "name": "Tsukuyo Amane"
+            },
+            "position": {
+                "x": 38.8,
+                "y": 62.5
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "sayaka",
+                "name": "Sayaka Miki"
+            },
+            "position": {
+                "x": 6.4,
+                "y": 100.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "melissa",
+                "name": "Melissa de Vignolles"
+            },
+            "position": {
+                "x": 60.0,
+                "y": 149.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "darc",
+                "name": "Darc"
+            },
+            "position": {
+                "x": 55.0,
+                "y": 143.1
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "liz",
+                "name": "Liz Hawkwood"
+            },
+            "position": {
+                "x": 65.7,
+                "y": 143.1
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "alina",
+                "name": "Alina Gray"
+            },
+            "position": {
+                "x": 28.2,
+                "y": 44.2
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "seika",
+                "name": "Seika Kumi"
+            },
+            "position": {
+                "x": 180.0,
+                "y": 80.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "leila",
+                "name": "Leila Ibuki"
+            },
+            "position": {
+                "x": 173.0,
+                "y": 80.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mito",
+                "name": "Mito Aino"
+            },
+            "position": {
+                "x": 166.0,
+                "y": 80.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mayu",
+                "name": "Mayu Kozue"
+            },
+            "position": {
+                "x": 69.4,
+                "y": 50.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "himika",
+                "name": "Himika Mao"
+            },
+            "position": {
+                "x": 142.2,
+                "y": 36.3
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mitama",
+                "name": "Mitama Yakumo"
+            },
+            "position": {
+                "x": 95.0,
+                "y": 72.5
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "ria",
+                "name": "Ria Ami"
+            },
+            "position": {
+                "x": 82.5,
+                "y": 57.5
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "chisato",
+                "name": "Chisato Shion"
+            },
+            "position": {
+                "x": 110.9,
+                "y": 145.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "arisa",
+                "name": "Arisa Narumi"
+            },
+            "position": {
+                "x": 119.9,
+                "y": 145.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "suzune",
+                "name": "Suzune Amano"
+            },
+            "position": {
+                "x": 128.9,
+                "y": 145.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mel",
+                "name": "Mel Anna"
+            },
+            "position": {
+                "x": 101.5,
+                "y": 101.5
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kanae",
+                "name": "Kanae Yukino"
+            },
+            "position": {
+                "x": 117.5,
+                "y": 101.5
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mifuyu",
+                "name": "Mifuyu Azusa"
+            },
+            "position": {
+                "x": 50.0,
+                "y": 42.3
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kanagi",
+                "name": "Kanagi Izumi"
+            },
+            "position": {
+                "x": 103.8,
+                "y": 50.7
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "riko",
+                "name": "Riko Chiaki"
+            },
+            "position": {
+                "x": 189.0,
+                "y": 55.5
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "nagisa",
+                "name": "Nagisa Momoe"
+            },
+            "position": {
+                "x": 6.4,
+                "y": 84.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "ryou",
+                "name": "Ryou Midori"
+            },
+            "position": {
+                "x": 10.0,
+                "y": 55.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "ikumi",
+                "name": "Ikumi Makino"
+            },
+            "position": {
+                "x": 10.0,
+                "y": 63.3
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "touka",
+                "name": "Touka Satomi"
+            },
+            "position": {
+                "x": 27.0,
+                "y": 27.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "nemu",
+                "name": "Nemu Hiiragi"
+            },
+            "position": {
+                "x": 37.0,
+                "y": 27.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "sakura",
+                "name": "Rumor of the Ten-Thousand Year Sakura"
+            },
+            "position": {
+                "x": 47.0,
+                "y": 27.0
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "sayuki",
+                "name": "Sayuki Fumino"
+            },
+            "position": {
+                "x": 69.4,
+                "y": 65.2
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "hayate",
+                "name": "Hayate Yagami"
+            },
+            "position": {
+                "x": 80.0,
+                "y": 14.4
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "fate",
+                "name": "Fate T. Harlaown"
+            },
+            "position": {
+                "x": 70.0,
+                "y": 14.4
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "nanoha",
+                "name": "Nanoha Takamachi"
+            },
+            "position": {
+                "x": 60.0,
+                "y": 14.4
+            },
+            "selected": false
+        }
+    ],
+    "edges": [
+        {
+            "data": {
+                "id": "karinalina",
+                "source": "karin",
+                "target": "alina"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "karinashley",
+                "source": "karin",
+                "target": "ashley"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "ashleyrika",
+                "source": "ashley",
+                "target": "rika"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "ashleyemiri",
+                "source": "ashley",
+                "target": "emiri"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "ashleyriko",
+                "source": "ashley",
+                "target": "riko"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mifuyuyachiyo",
+                "source": "mifuyu",
+                "target": "yachiyo"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kyokoyuma",
+                "source": "kyoko",
+                "target": "yuma"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "madokairoha",
+                "source": "madoka",
+                "target": "iroha"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "orikokirika",
+                "source": "oriko",
+                "target": "kirika"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "yachiyomomoko",
+                "source": "yachiyo",
+                "target": "momoko"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "shizukuayaka",
+                "source": "shizuku",
+                "target": "ayaka"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "sasaraasuka",
+                "source": "sasara",
+                "target": "asuka"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "yachiyomitama",
+                "source": "yachiyo",
+                "target": "mitama"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mitamakanagi",
+                "source": "mitama",
+                "target": "kanagi"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "yachiyokanagi",
+                "source": "yachiyo",
+                "target": "kanagi"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mitamamomoko",
+                "source": "mitama",
+                "target": "momoko"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mitamairoha",
+                "source": "mitama",
+                "target": "iroha"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mitamakanoko",
+                "source": "mitama",
+                "target": "kanoko"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "manakakonoha",
+                "source": "manaka",
+                "target": "konoha"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "manakariko",
+                "source": "manaka",
+                "target": "riko"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "himikakanagi",
+                "source": "himika",
+                "target": "kanagi"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "himikakaoru",
+                "source": "himika",
+                "target": "kaoru"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "orikoyuma",
+                "source": "oriko",
+                "target": "yuma"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "nagisamami",
+                "source": "nagisa",
+                "target": "mami"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "rikaren",
+                "source": "rika",
+                "target": "ren"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "manakaria",
+                "source": "manaka",
+                "target": "ria"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "natsukiaimi",
+                "source": "natsuki",
+                "target": "aimi"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "natsukiaimi",
+                "source": "natsuki",
+                "target": "aimi"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "irohananoha",
+                "source": "iroha",
+                "target": "nanoha"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "momokonanoha",
+                "source": "momoko",
+                "target": "nanoha"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mitamananoha",
+                "source": "mitama",
+                "target": "nanoha"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "ayakaseika",
+                "source": "ayaka",
+                "target": "seika"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "manakaleila",
+                "source": "manaka",
+                "target": "leila"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "asukafelicia",
+                "source": "asuka",
+                "target": "felicia"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "asukananaka",
+                "source": "asuka",
+                "target": "nanaka"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "alinamifuyu",
+                "source": "alina",
+                "target": "mifuyu"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "natsukiakira",
+                "source": "natsuki",
+                "target": "akira"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "natsukikaede",
+                "source": "natsuki",
+                "target": "kaede"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "alinatsukasa",
+                "source": "alina",
+                "target": "tsukasa"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "alinatsukuyo",
+                "source": "alina",
+                "target": "tsukuyo"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "alinatouka",
+                "source": "alina",
+                "target": "touka"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "alinanemu",
+                "source": "alina",
+                "target": "nemu"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "alinasakura",
+                "source": "alina",
+                "target": "sakura"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "alinamami",
+                "source": "alina",
+                "target": "mami"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mifuyutsukasa",
+                "source": "mifuyu",
+                "target": "tsukasa"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mifuyutsukuyo",
+                "source": "mifuyu",
+                "target": "tsukuyo"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mifuyutouka",
+                "source": "mifuyu",
+                "target": "touka"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mifuyunemu",
+                "source": "mifuyu",
+                "target": "nemu"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mifuyusakura",
+                "source": "mifuyu",
+                "target": "sakura"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mifuyumami",
+                "source": "mifuyu",
+                "target": "mami"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "tsukasatsukuyo",
+                "source": "tsukasa",
+                "target": "tsukuyo"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "tsukasatouka",
+                "source": "tsukasa",
+                "target": "touka"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "tsukasanemu",
+                "source": "tsukasa",
+                "target": "nemu"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "tsukasasakura",
+                "source": "tsukasa",
+                "target": "sakura"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "tsukasamami",
+                "source": "tsukasa",
+                "target": "mami"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "tsukuyotouka",
+                "source": "tsukuyo",
+                "target": "touka"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "tsukuyonemu",
+                "source": "tsukuyo",
+                "target": "nemu"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "tsukuyosakura",
+                "source": "tsukuyo",
+                "target": "sakura"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "tsukuyomami",
+                "source": "tsukuyo",
+                "target": "mami"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "toukanemu",
+                "source": "touka",
+                "target": "nemu"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "toukasakura",
+                "source": "touka",
+                "target": "sakura"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "toukamami",
+                "source": "touka",
+                "target": "mami"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "nemusakura",
+                "source": "nemu",
+                "target": "sakura"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "nemumami",
+                "source": "nemu",
+                "target": "mami"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "sakuramami",
+                "source": "sakura",
+                "target": "mami"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "irohayachiyo",
+                "source": "iroha",
+                "target": "yachiyo"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "irohatsuruno",
+                "source": "iroha",
+                "target": "tsuruno"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "irohafelicia",
+                "source": "iroha",
+                "target": "felicia"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "irohasana",
+                "source": "iroha",
+                "target": "sana"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "yachiyotsuruno",
+                "source": "yachiyo",
+                "target": "tsuruno"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "yachiyofelicia",
+                "source": "yachiyo",
+                "target": "felicia"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "yachiyosana",
+                "source": "yachiyo",
+                "target": "sana"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "tsurunofelicia",
+                "source": "tsuruno",
+                "target": "felicia"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "tsurunosana",
+                "source": "tsuruno",
+                "target": "sana"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "feliciasana",
+                "source": "felicia",
+                "target": "sana"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kyokomami",
+                "source": "kyoko",
+                "target": "mami"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kyokosayaka",
+                "source": "kyoko",
+                "target": "sayaka"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kyokomadoka",
+                "source": "kyoko",
+                "target": "madoka"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kyokomoemura",
+                "source": "kyoko",
+                "target": "moemura"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mamisayaka",
+                "source": "mami",
+                "target": "sayaka"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mamimadoka",
+                "source": "mami",
+                "target": "madoka"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mamimoemura",
+                "source": "mami",
+                "target": "moemura"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "sayakamadoka",
+                "source": "sayaka",
+                "target": "madoka"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "sayakamoemura",
+                "source": "sayaka",
+                "target": "moemura"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "madokamoemura",
+                "source": "madoka",
+                "target": "moemura"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "momokokaede",
+                "source": "momoko",
+                "target": "kaede"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "momokorena",
+                "source": "momoko",
+                "target": "rena"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kaederena",
+                "source": "kaede",
+                "target": "rena"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mayusayuki",
+                "source": "mayu",
+                "target": "sayuki"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mayuria",
+                "source": "mayu",
+                "target": "ria"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "sayukiria",
+                "source": "sayuki",
+                "target": "ria"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "nanakameiyui",
+                "source": "nanaka",
+                "target": "meiyui"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "nanakakako",
+                "source": "nanaka",
+                "target": "kako"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "nanakaakira",
+                "source": "nanaka",
+                "target": "akira"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "meiyuikako",
+                "source": "meiyui",
+                "target": "kako"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "meiyuiakira",
+                "source": "meiyui",
+                "target": "akira"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kakoakira",
+                "source": "kako",
+                "target": "akira"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "konohahazuki",
+                "source": "konoha",
+                "target": "hazuki"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "konohaayame",
+                "source": "konoha",
+                "target": "ayame"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "hazukiayame",
+                "source": "hazuki",
+                "target": "ayame"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "emiririka",
+                "source": "emiri",
+                "target": "rika"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "emirihinano",
+                "source": "emiri",
+                "target": "hinano"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "rikahinano",
+                "source": "rika",
+                "target": "hinano"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mitoleila",
+                "source": "mito",
+                "target": "leila"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mitoseika",
+                "source": "mito",
+                "target": "seika"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "leilaseika",
+                "source": "leila",
+                "target": "seika"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "darcliz",
+                "source": "darc",
+                "target": "liz"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "darcmelissa",
+                "source": "darc",
+                "target": "melissa"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "darciroha",
+                "source": "darc",
+                "target": "iroha"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "darcyachiyo",
+                "source": "darc",
+                "target": "yachiyo"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "lizmelissa",
+                "source": "liz",
+                "target": "melissa"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "liziroha",
+                "source": "liz",
+                "target": "iroha"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "lizyachiyo",
+                "source": "liz",
+                "target": "yachiyo"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "melissairoha",
+                "source": "melissa",
+                "target": "iroha"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "melissayachiyo",
+                "source": "melissa",
+                "target": "yachiyo"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "irohayachiyo",
+                "source": "iroha",
+                "target": "yachiyo"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "chisatosuzune",
+                "source": "chisato",
+                "target": "suzune"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "chisatoarisa",
+                "source": "chisato",
+                "target": "arisa"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "suzunearisa",
+                "source": "suzune",
+                "target": "arisa"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "nanohafate",
+                "source": "nanoha",
+                "target": "fate"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "nanohahayate",
+                "source": "nanoha",
+                "target": "hayate"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "fatehayate",
+                "source": "fate",
+                "target": "hayate"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "melkanae",
+                "source": "mel",
+                "target": "kanae"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "melyachiyo",
+                "source": "mel",
+                "target": "yachiyo"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kanaeyachiyo",
+                "source": "kanae",
+                "target": "yachiyo"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kazumikaoru",
+                "source": "kazumi",
+                "target": "kaoru"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kazumiumika",
+                "source": "kazumi",
+                "target": "umika"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kaoruumika",
+                "source": "kaoru",
+                "target": "umika"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "ikumiryou",
+                "source": "ikumi",
+                "target": "ryou"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "ikumishizuku",
+                "source": "ikumi",
+                "target": "shizuku"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "ryoushizuku",
+                "source": "ryou",
+                "target": "shizuku"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mitamakokoro",
+                "source": "mitama",
+                "target": "kokoro"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "mitamamasara",
+                "source": "mitama",
+                "target": "masara"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kokoromasara",
+                "source": "kokoro",
+                "target": "masara"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kakokonomi",
+                "source": "kako",
+                "target": "konomi"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kakokaede",
+                "source": "kako",
+                "target": "kaede"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kakomito",
+                "source": "kako",
+                "target": "mito"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "konomikaede",
+                "source": "konomi",
+                "target": "kaede"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "konomimito",
+                "source": "konomi",
+                "target": "mito"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kaedemito",
+                "source": "kaede",
+                "target": "mito"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kakoayame",
+                "source": "kako",
+                "target": "ayame"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kakofelicia",
+                "source": "kako",
+                "target": "felicia"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "ayamefelicia",
+                "source": "ayame",
+                "target": "felicia"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kakochisato",
+                "source": "kako",
+                "target": "chisato"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kakoarisa",
+                "source": "kako",
+                "target": "arisa"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "chisatoarisa",
+                "source": "chisato",
+                "target": "arisa"
+            },
+            "selected": false
+        }
+    ]
+}
