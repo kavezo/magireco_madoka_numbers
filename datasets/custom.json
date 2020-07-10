@@ -954,14 +954,6 @@
         },
         {
             "data": {
-                "id": "mitamakanoko",
-                "source": "mitama",
-                "target": "kanoko"
-            },
-            "selected": false
-        },
-        {
-            "data": {
                 "id": "mitamamifuyu",
                 "source": "mitama",
                 "target": "mifuyu"
