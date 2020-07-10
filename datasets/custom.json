@@ -3,7 +3,8 @@
         {
             "data": {
                 "id": "madoka",
-                "name": "Madoka Kaname"
+                "name": "Madoka Kaname",
+                "type": "madoka"
             },
             "position": {
                 "x": 32.4,
@@ -973,6 +974,14 @@
                 "id": "kanokoemiri",
                 "source": "kanoko",
                 "target": "emiri"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "rikamami",
+                "source": "rika",
+                "target": "mami"
             },
             "selected": false
         },
