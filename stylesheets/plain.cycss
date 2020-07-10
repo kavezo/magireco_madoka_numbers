@@ -11,6 +11,10 @@ node.highlighted {
   border-color: #333333;
 }
 
+node.madoka {
+  background-color: #ff96c0;
+}
+
 node.start {
   border-color: #8FDC97;
 }
