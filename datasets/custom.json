@@ -962,9 +962,25 @@
         },
         {
             "data": {
-                "id": "manakakonoha",
-                "source": "manaka",
-                "target": "konoha"
+                "id": "mitamamifuyu",
+                "source": "mitama",
+                "target": "mifuyu"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "emiriria",
+                "source": "emiri",
+                "target": "ria"
+            },
+            "selected": false
+        },
+        {
+            "data": {
+                "id": "kanokoemiri",
+                "source": "kanoko",
+                "target": "emiri"
             },
             "selected": false
         },
